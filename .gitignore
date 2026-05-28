@@ -1,0 +1,11 @@
+# Directories
+.idea
+.vscode
+node_modules
+dist
+__pycache__/
+
+# Files
+.env
+venv
+backend/.env
